@@ -58,9 +58,9 @@ function keepRaping(cnt){
 
 ## 声明
 
-[雷普先辈游戏地址](https://github.com/Wu-Jingcheng/RapeSenpai)
+[雷普先辈游戏地址](https://wu-jingcheng.github.io/RapeSenpai/)
 
-[雷普先辈游戏GitHub Repo](https://github.com/Xiaohuang257/RapeSenpai)
+[雷普先辈游戏GitHub Repo](https://github.com/Wu-Jingcheng/RapeSenpai)
 
 如果要使用本外挂请使用默认按键`dfjk`。由于代码量很少直接放在README里了。
 
