@@ -58,7 +58,7 @@ function keepRaping(cnt){
 
 ## 声明
 
-[雷普先辈游戏地址](https://xiaohuang257.github.io/RapeSenpai/index.html)
+[雷普先辈游戏地址](https://github.com/Wu-Jingcheng/RapeSenpai)
 
 [雷普先辈游戏GitHub Repo](https://github.com/Xiaohuang257/RapeSenpai)
 
